@@ -1,11 +1,15 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,24&height=180&section=header&text=Rajnikanth&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer%20%7C%20AI%20Agents%20%26%20Automated%20Systems&descAlignY=58&descAlign=50" width="100%" alt="Header" />
-
-  <!-- Animated Typing Subtitle -->
+  <!-- Self-hosted Vector Header Banner -->
   <a href="https://github.com/Rajnikanth31">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Rajnikanth;Crafting+Autonomous+AI+Agents+%26+Tools;Building+Scalable+Full-Stack+Architectures;Turning+Code+Into+Actionable+Intelligence" alt="Typing SVG" />
+    <img src="./header.svg" width="100%" alt="Rajnikanth Header" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://github.com/Rajnikanth31">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=620&lines=Crafting+Autonomous+AI+Agents+%26+Tools;Building+Scalable+Full-Stack+Architectures;Developing+Algorithmic+Trading+Systems;Turning+Code+Into+Actionable+Intelligence" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -103,5 +107,5 @@ passions: [Open-Source, Clean Architectures, Generative AI]
 <br/>
 
 <div align="center">
-  <sub>⚡ Designed with dark mode aesthetics for Rajnikanth's GitHub Profile.</sub>
+  <sub>⚡ Designed with dark cyberpunk aesthetics for Rajnikanth's GitHub Profile.</sub>
 </div>
