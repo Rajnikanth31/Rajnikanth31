@@ -21,8 +21,8 @@
   <a href="https://github.com/Rajnikanth31">
     <img src="https://img.shields.io/badge/Location-Bangalore-FF007F?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bangalore" />
   </a>
-  <a href="mailto:rajnikanth31@gmail.com">
-    <img src="https://img.shields.io/badge/Get_In_Touch-Email-7928CA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/Rajnikanth31?tab=followers">
+    <img src="https://img.shields.io/badge/Status-Building_In_Public-7928CA?style=for-the-badge&logo=rocket&logoColor=white" alt="Building in Public" />
   </a>
 
 </div>
@@ -90,16 +90,12 @@ passions: [Open-Source, Clean Architectures, Generative AI]
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect & Follow
 
 <div align="center">
 
-  <a href="mailto:rajnikanth31@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rajnikanth31@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
   <a href="https://github.com/Rajnikanth31">
-    <img src="https://img.shields.io/badge/GitHub-Rajnikanth31-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow_@Rajnikanth31-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
 </div>

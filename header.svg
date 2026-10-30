@@ -121,7 +121,7 @@
   <!-- Terminal Footer Bar -->
   <g transform="translate(450, 204)">
     <text x="0" y="0" text-anchor="middle" class="terminal-text">
-      <tspan class="highlight-cyan">rajnikanth@bangalore</tspan>:<tspan fill="#8B5CF6">~</tspan>$ <tspan fill="#E2E8F0">stack --focus="agents, trading, high-scale"</tspan> <tspan class="highlight-green">✔</tspan>
+      <tspan class="highlight-cyan">dev://rajnikanth/blr</tspan>:<tspan fill="#8B5CF6">~</tspan>$ <tspan fill="#E2E8F0">stack --focus="agents, trading, high-scale"</tspan> <tspan class="highlight-green">✔</tspan>
     </text>
   </g>
 </svg>
